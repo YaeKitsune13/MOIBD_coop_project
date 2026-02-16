@@ -1,6 +1,11 @@
 # MOIBD_coop_project
 
 Этот проект содержит Jupyter-ноутбуки для выполнения совместного задания (кооперативного проекта) по курсу МОИБД.
+## Ссылка на базу данных
+
+### БД Скачан с Kaggle и используется лишь в целях обучения
+
+[Ссылка на бд](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis?resource=download)
 
 ## Описание
 
