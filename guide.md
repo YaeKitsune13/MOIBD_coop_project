@@ -12,11 +12,6 @@
    pip install nbdime
    nbdime config-git --enable --global
    ```
-2. Создайте в корне проекта файл `.gitignore` и добавьте туда:
-   ```text
-   .ipynb_checkpoints/
-   __pycache__/
-   ```
 
 ---
 
