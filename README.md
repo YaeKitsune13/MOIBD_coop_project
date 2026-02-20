@@ -7,6 +7,10 @@
 
 [Ссылка на бд](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis?resource=download)
 
+[Ссылка на пример 1](https://www.kaggle.com/code/thuandao/consumer-behavior-cluster-analysis)
+[Ссылка на пример 2](https://www.kaggle.com/code/osmanahmedosman/customer-personality-analysis)
+[Ссылка на пример 3](https://www.kaggle.com/code/elgohary249/customer-personality-analysis)
+
 ## Описание
 
 В этом репозитории собраны материалы, примеры кода и объяснения по анализу данных, выполненные в Jupyter Notebook. Проект посвящён освоению инструментов и методов обр��ботки и анализа данных.
