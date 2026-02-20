@@ -1,1 +1,8 @@
-pandas, numpy, seaborn, matplotlib, scikit-learn
+pandas==3.0.1
+numpy==2.4.2
+matplotlib==3.10.8
+seaborn==0.13.2
+scipy==1.17.0
+scikit-learn==1.8.0
+kneed==0.8.5
+ipython==9.10.0
