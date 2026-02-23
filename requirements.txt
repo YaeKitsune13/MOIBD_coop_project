@@ -6,3 +6,5 @@ scipy==1.17.0
 scikit-learn==1.8.0
 kneed==0.8.5
 ipython==9.10.0
+plotly==6.5.2 
+ipywidgets==8.1.8
