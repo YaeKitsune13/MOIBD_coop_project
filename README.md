@@ -11,6 +11,9 @@
 [Ссылка на пример 2](https://www.kaggle.com/code/osmanahmedosman/customer-personality-analysis)
 [Ссылка на пример 3](https://www.kaggle.com/code/elgohary249/customer-personality-analysis)
 
+[Ссылка на дашбоард](https://yaekitsune13.github.io/MOIBD_coop_project/)
+
+
 ## Описание
 
 В этом репозитории собраны материалы, примеры кода и объяснения по анализу данных, выполненные в Jupyter Notebook. Проект посвящён освоению инструментов и методов обр��ботки и анализа данных.
